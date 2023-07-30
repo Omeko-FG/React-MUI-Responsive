@@ -5,7 +5,7 @@ import { Box} from '@mui/material'
 
 
 const images = [
- "crealive-task/public/logo192.png",
+ "https://youtu.be/Q8zw2Qt9u6c?list=PLf3cxVeAm439RsaHrGACExl3o060pM7W2",
  "https://user-images.githubusercontent.com/119002766/254484613-37870fd7-7447-483e-ac09-ac50dc84f283.gif",
   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSySjUEmBs9JfQpeUUpOjHQ667n62TGqSDfjw&usqp=CAU",
   "https://ronaffpirlanta.com/cdn/shop/products/4mm-14Ayar-Seftali-Rengi-Bombeli-Altin-Alyans_2_900x.jpg?v=1675366034",
